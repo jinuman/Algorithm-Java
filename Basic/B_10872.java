@@ -5,7 +5,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class B10872 {
+public class B_10872 {
     private static int factorial(int n) {
         int facNum = 1;
         for (int i = 1; i <= n; i++) {
