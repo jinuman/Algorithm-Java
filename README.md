@@ -17,7 +17,7 @@
 
 ### DrawStars
 
-- [백준 2438~2446](DrawStars/)
+- [백준 2438~2446 - 별찍기 모음](DrawStars/)
 
 ### Graph
 
