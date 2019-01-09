@@ -1,4 +1,4 @@
-package Basic;
+package Math;
 // 팩토리얼
 
 import java.io.BufferedReader;
@@ -21,6 +21,3 @@ public class B_10872 {
     }
 }
 
-/*
-10
- */
