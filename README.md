@@ -8,6 +8,7 @@
 * [DrawStars](#DrawStars)
 * [Math](#Math)
 * [Graph](#Graph)
+* [Implementation](#Implementation)
 
 * * * 
 
@@ -27,6 +28,10 @@
 ### Graph
 
 - [백준 1260 - DFS와 BFS](Graph/B_1260.java)
+
+### Implementation
+
+- [백준 1924 - 2007년](Implementation/B_1924.java)
 
 * * * 
 
