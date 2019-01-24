@@ -15,6 +15,8 @@
 ### Basic
 
 - [백준 10818 - 최소, 최대](Basic/B_10818.java)
+- [프로그래머스 - 두 정수 사이의 합](Basic/P_SumOfTwoInts.java)
+- [프로그래머스 - 약수의 합](Basic/P_SumOfDivisors.java)
 
 ### DrawStars
 
