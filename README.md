@@ -17,9 +17,10 @@
 
 - [백준 10818 - 최소, 최대](Basic/B_10818.java)
 - [백준 10824 - 네 수](Basic/B_10824.java)
+- [백준 10826 - 피보나치 수 4](Basic/B_10826.java)
+- [백준 11720 - 숫자의 합](Basic/B_11720.java)
 - [프로그래머스 - 두 정수 사이의 합](Basic/P_SumOfTwoInts.java)
 - [프로그래머스 - 약수의 합](Basic/P_SumOfDivisors.java)
-- [백준 10826 - 피보나치 수 4](Basic/B_10826.java)
 
 ### DrawStars
 
