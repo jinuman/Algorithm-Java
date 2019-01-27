@@ -1,8 +1,6 @@
 package String;
 // 알파벳 개수
-// ASCII code 연산을 하면 자동으로 int 형이 나옴
-// String s = "abs"; s.charAt(i) - 'a';
-// 만약 s.charAt(i)가 a 이면 0이 됨. 이걸 배열에 index 로 이용
+// 문자열에서 각 알파벳이 몇 개가 포함되어 있는지 구하는 문제
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,7 +10,7 @@ public class B_10808 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String word = br.readLine();
-        int[] alphabet = new int[26];   // 0: a, 1: b, ..., 25: z
+        int[] alphabet = new int[26];
         for (int i = 0; i < word.length(); i++) {
             int idx = word.charAt(i) - 'a';
             alphabet[idx] += 1;
