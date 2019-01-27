@@ -18,6 +18,7 @@
 - [백준 10824 - 네 수](Basic/B_10824.java)
 - [프로그래머스 - 두 정수 사이의 합](Basic/P_SumOfTwoInts.java)
 - [프로그래머스 - 약수의 합](Basic/P_SumOfDivisors.java)
+- [프로그래머스 - 서울에서 김서방 찾기](Basic/P_FindKim.java)
 
 ### DrawStars
 
