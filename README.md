@@ -6,6 +6,7 @@
 
 * [Basic](#Basic)
 * [DrawStars](#DrawStars)
+* [String](#String)
 * [Math](#Math)
 * [Graph](#Graph)
 * [Implementation](#Implementation)
@@ -18,15 +19,18 @@
 - [백준 10824 - 네 수](Basic/B_10824.java)
 - [프로그래머스 - 두 정수 사이의 합](Basic/P_SumOfTwoInts.java)
 - [프로그래머스 - 약수의 합](Basic/P_SumOfDivisors.java)
-- [프로그래머스 - 서울에서 김서방 찾기](Basic/P_FindKim.java)
-- [프로그래머스 - 수박수박수박수박수박수?](Basic/P_Watermelon.java)
 - [백준 10826 - 피보나치 수 4](Basic/B_10826.java)
-- [백준 1152 - 단어의 개수](Basic/B_1152.java)
-
 
 ### DrawStars
 
 - [백준 2438~2446 - 별찍기 모음](DrawStars/)
+
+### String
+
+- [백준 1152 - 단어의 개수](String/B_1152.java)
+- [백준 11656 - 접미사 배열](String/B_11656.java)
+- [프로그래머스 - 서울에서 김서방 찾기](String/P_FindKim.java)
+- [프로그래머스 - 수박수박수박수박수박수?](String/P_Watermelon.java)
 
 ### Math
 
