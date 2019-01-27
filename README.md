@@ -30,6 +30,7 @@
 - [백준 1152 - 단어의 개수](String/B_1152.java)
 - [백준 11656 - 접미사 배열](String/B_11656.java)
 - [백준 10808 - 알파벳 개수](String/B_10808.java)
+- [백준 10808 - 알파벳 찾기](String/B_10809.java)
 - [프로그래머스 - 문자열 다루기 기본](String/P_StringHandling.java)
 - [프로그래머스 - 서울에서 김서방 찾기](String/P_FindKim.java)
 - [프로그래머스 - 수박수박수박수박수박수?](String/P_Watermelon.java)
