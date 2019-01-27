@@ -1,4 +1,4 @@
-package Basic;
+package String;
 // 서울에서 김서방 찾기
 
 public class P_FindKim {

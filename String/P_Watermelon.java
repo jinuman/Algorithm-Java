@@ -1,4 +1,4 @@
-package Basic;
+package String;
 // 수박수박수박수박수박수?
 
 public class P_Watermelon {

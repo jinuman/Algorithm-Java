@@ -1,4 +1,4 @@
-package Basic;
+package String;
 // 단어의 개수
 
 import java.io.BufferedReader;

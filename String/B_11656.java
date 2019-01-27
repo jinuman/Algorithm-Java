@@ -1,4 +1,4 @@
-package Basic;
+package String;
 // 접미사 배열
 // substring (begin[, end])
 
