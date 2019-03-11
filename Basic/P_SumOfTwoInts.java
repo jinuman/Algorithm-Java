@@ -8,13 +8,14 @@ public class P_SumOfTwoInts {
     }
 
     private long summingUp(long a, long b) {
-        return (b - a + 1) * (a + b) / 2;
+        long n = b - a + 1;
+        return n * (a + b) / 2;
     }
 
     public static void main(String[] args) {
         P_SumOfTwoInts ins = new P_SumOfTwoInts();
-        System.out.println(ins.solution(3, 5));
-        System.out.println(ins.solution(3, 2));
-        System.out.println(ins.solution(5, 3));
+        System.out.println(ins.solution(3, 5)); // 12
+        System.out.println(ins.solution(3, 2)); // 5
+        System.out.println(ins.solution(5, 3)); // 12
     }
 }

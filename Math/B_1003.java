@@ -35,3 +35,16 @@ public class B_1003 {
         }
     }
 }
+
+/*
+input
+3
+0
+1
+3
+
+output
+1 0
+0 1
+1 2
+ */

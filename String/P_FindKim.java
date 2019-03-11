@@ -17,3 +17,8 @@ public class P_FindKim {
         System.out.println(ins.solution(s));
     }
 }
+
+/*
+output
+김서방은 1에 있다
+ */

@@ -17,6 +17,6 @@ public class P_Year2016 {
 
     public static void main(String[] args) {
         int a = 5, b = 24;
-        System.out.println(P_Year2016.solution(a, b));
+        System.out.println(P_Year2016.solution(a, b));  // Tue
     }
 }

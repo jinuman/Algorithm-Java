@@ -12,7 +12,7 @@ public class P_Watermelon {
 
     public static void main(String[] args) {
         P_Watermelon ins = new P_Watermelon();
-        System.out.println(ins.solution(3));
-        System.out.println(ins.solution(4));
+        System.out.println(ins.solution(3));    // 수박수
+        System.out.println(ins.solution(4));    // 수박수박
     }
 }

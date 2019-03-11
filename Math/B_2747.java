@@ -21,3 +21,11 @@ public class B_2747 {
         System.out.println(fibonacciNumber(n));
     }
 }
+
+/*
+input
+10
+
+output
+55
+ */

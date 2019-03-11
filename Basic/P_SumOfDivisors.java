@@ -15,7 +15,7 @@ public class P_SumOfDivisors {
 
     public static void main(String[] args) {
         P_SumOfDivisors ins = new P_SumOfDivisors();
-        System.out.println(ins.solution(12));
-        System.out.println(ins.solution(5));
+        System.out.println(ins.solution(12));   // 28
+        System.out.println(ins.solution(5));    // 6
     }
 }

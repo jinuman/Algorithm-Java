@@ -18,3 +18,9 @@ public class P_GetMiddleFromString {
         System.out.println(ins.solution(s2));
     }
 }
+
+/*
+output
+c
+we
+ */

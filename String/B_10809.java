@@ -17,7 +17,7 @@ public class B_10809 {
         for (int i = 0; i < word.length(); i++) {
             int idx = word.charAt(i) - 'a';   // 해당 알파벳의 answer[] 에서의 자리
             if (answer[idx] == -1) {  // 한번도 안채워졌으면
-                answer[idx] = i;      // 해당 알파벳의 인덱스를 집어넣는다.
+                answer[idx] = i;      // answer[위치] = 처음 등장한 위치
             }
         }
         for (int i : answer) {

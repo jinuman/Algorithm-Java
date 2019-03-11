@@ -20,3 +20,11 @@ public class B_10826 {
         System.out.println(dp[n]);
     }
 }
+
+/*
+input
+10
+
+output
+55
+ */

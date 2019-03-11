@@ -20,7 +20,7 @@ public class P_StringHandling {
     }
     public static void main(String[] args) {
         P_StringHandling ins = new P_StringHandling();
-        System.out.println(ins.solution("a234"));
-        System.out.println(ins.solution("1234"));
+        System.out.println(ins.solution("a234"));   // false
+        System.out.println(ins.solution("1234"));   // true
     }
 }

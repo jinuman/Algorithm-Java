@@ -21,3 +21,11 @@ public class B_10872 {
     }
 }
 
+/*
+input
+10
+
+output
+3628800
+ */
+
