@@ -10,6 +10,7 @@
 * [Math](#Math)
 * [Graph](#Graph)
 * [Implementation](#Implementation)
+* [Kakao](#Kakao)
 
 * * * 
 
@@ -52,6 +53,10 @@
 
 - [백준 1924 - 2007년](Implementation/B_1924.java)
 - [프로그래머스 - 2016년](Implementation/P_Year2016.java)
+
+### Kakao
+
+- [프로그래머스 - 뉴스 클러스터링](Kakao/P_NewsClustering.java)
 
 * * * 
 
