@@ -8,6 +8,7 @@
 * [DrawStars](#DrawStars)
 * [String](#String)
 * [Stack](#Stack)
+* [Queue](#Queue)
 * [Map](#Map)
 * [Math](#Math)
 * [Graph](#Graph)
@@ -44,6 +45,10 @@
 ### Stack
 
 - [백준 10828 - 스택](Stack/B_10828.java)
+
+### Queue
+
+- [백준 10845 - 큐](Queue/B_10845.java)
 
 ### Map
 
