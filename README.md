@@ -45,6 +45,7 @@
 ### Stack
 
 - [백준 10828 - 스택](Stack/B_10828.java)
+- [백준 9012 - 괄호](Stack/B_9012.java)
 
 ### Queue
 
