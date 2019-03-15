@@ -52,3 +52,15 @@ public class B_1406 {
         System.out.println(result);
     }
 }
+
+/*
+input
+abcd
+3
+P x
+L
+P y
+
+output
+abcdyx
+ */
