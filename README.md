@@ -65,6 +65,8 @@
 ### Graph
 
 - [백준 1260 - DFS와 BFS](Graph/B_1260.java)
+- [백준 11724 - 연결 요소의 개수](Graph/B_11724.java)
+
 
 ### Implementation
 
