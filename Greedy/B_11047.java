@@ -1,24 +1,46 @@
-package Temporary;
+package Greedy;
 // 동전 0
-// Greedy Algorithm
 
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
-public class B11047 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        int k = sc.nextInt();
+public class B_11047 {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String[] line = br.readLine().trim().split(" ");
+        int n = Integer.parseInt(line[0]);
+        int k = Integer.parseInt(line[1]);
         int[] a = new int[n];
         for (int i = 0; i < n; i++) {
-            a[i] = sc.nextInt();
+            a[i] = Integer.parseInt(br.readLine());
         }
-        int cnt = 0;
-        for (int i = n-1; i >= 0; i--) {
-            int quotient = k / a[i];
-            cnt += quotient;
-            k -= (quotient * a[i]);
+        int answer = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            if (a[i] <= k) {
+                int cnt = k / a[i];
+                answer += cnt;
+                k -= (cnt * a[i]);
+            }
         }
-        System.out.println(cnt);
+        System.out.println(answer);
     }
 }
+
+/*
+input
+10 4200
+1
+5
+10
+50
+100
+500
+1000
+5000
+10000
+50000
+
+output
+6
+ */
