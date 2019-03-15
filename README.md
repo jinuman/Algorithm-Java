@@ -78,6 +78,7 @@
 ### Greedy
 
 - [백준 11047 - 동전 0](Greedy/B_11047.java)
+- [백준 1931 - 회의실 배정](Greedy/B_1931.java)
 
 ### Kakao
 
