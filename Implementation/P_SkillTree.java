@@ -1,5 +1,5 @@
 package Implementation;
-// 윈터 1번 문제
+// 2018 윈터 1번 문제
 // skill: 선행 스킬, skill_trees: 유저들이 만든 스킬트리
 // 선행 스킬을 만족하는 스킬트리의 개수를 return 하는 문제
 
