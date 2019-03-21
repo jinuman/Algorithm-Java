@@ -26,6 +26,7 @@
 - [백준 11720 - 숫자의 합](Basic/B_11720.java)
 - [프로그래머스 - 두 정수 사이의 합](Basic/P_SumOfTwoInts.java)
 - [프로그래머스 - 약수의 합](Basic/P_SumOfDivisors.java)
+- [프로그래머스 - 예산](Basic/P_Budget.java)
 
 ### DrawStars
 
