@@ -72,11 +72,14 @@
 - [백준 10872 - 팩토리얼](Math/B_10872.java)
 - [백준 11005 - 진법 변환 2](Math/B_11005.java)
 
+### Sort
+
+- [백준 10825 - 국영수](Sort/B_10825.java)
+
 ### Graph
 
 - [백준 1260 - DFS와 BFS](Graph/B_1260.java)
 - [백준 11724 - 연결 요소의 개수](Graph/B_11724.java)
-
 
 ### Implementation
 
@@ -84,7 +87,6 @@
 - [프로그래머스 - 영역 교차 검사하기](Implementation/P_IntersectionRectArea.java)
 - [프로그래머스 - 스킬트리](Implementation/P_SkillTree.java)
 - [프로그래머스 - 2016년](Implementation/P_Year2016.java)
-
 
 ### Greedy
 
