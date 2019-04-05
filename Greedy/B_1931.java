@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.StringTokenizer;
 
 public class B_1931 {
-    public static class Meeting implements Comparable<Meeting> {
+    private static class Meeting implements Comparable<Meeting> {
         int begin;
         int end;
 

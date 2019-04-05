@@ -16,7 +16,8 @@ public class B_10845 {
         int n = Integer.parseInt(br.readLine());
         Queue<Integer> q = new LinkedList<>();
         int back = 0;
-        while (n-- > 0) {
+        while (n != 0) {
+            n -= 1;
             String[] line = br.readLine().split(" ");
             String cmd = line[0];
             switch (cmd) {

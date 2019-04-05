@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class P_IntersectionRectArea {
-    static class Point {
+    private static class Point {
         int x;
         int y;
 
@@ -18,7 +18,7 @@ public class P_IntersectionRectArea {
         }
     }
 
-    static class Rect {
+    private static class Rect {
         // y
         int top;
         int bottom;

@@ -4,7 +4,7 @@ package Basic;
 import java.util.Arrays;
 
 public class P_SpacedByX {
-    public static long[] solution(int x, int n) {
+    private static long[] solution(int x, int n) {
         long[] answer = new long[n];
         answer[0] = x;
         for (int i = 1; i < n; i++) {

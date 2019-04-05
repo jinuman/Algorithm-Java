@@ -5,7 +5,7 @@ package Basic;
 import java.util.Arrays;
 
 public class P_Budget {
-    public static int solution(int[] d, int budget) {
+    private static int solution(int[] d, int budget) {
         int answer= 0;
         Arrays.sort(d);
         int need = 0;

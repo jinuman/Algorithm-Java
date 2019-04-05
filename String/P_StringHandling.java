@@ -4,7 +4,7 @@ package String;
 // s.charAt(i) -> '0' < c < '9' 인지 판별
 
 public class P_StringHandling {
-    public boolean solution(String s) {
+    private boolean solution(String s) {
         boolean answer;
         int len = s.length();
         answer = (len == 4 || len == 6) && isNum(s);

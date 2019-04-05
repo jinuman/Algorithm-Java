@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class P_LastPoint {
-    public static int[] solution(int[][] v) {
+    private static int[] solution(int[][] v) {
         int[] answer = new int[2];
         ArrayList<Integer> listX = new ArrayList<>();
         ArrayList<Integer> listY = new ArrayList<>();

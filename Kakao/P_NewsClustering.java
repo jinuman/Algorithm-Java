@@ -8,7 +8,7 @@ import java.util.*;
 
 public class P_NewsClustering {
     private static int solution(String str1, String str2) {
-        // 원소가 두글자인 배열 만들기
+        // 원소가 두 글자인 배열 만들기
         ArrayList<String> a = new ArrayList<>();
         ArrayList<String> b = new ArrayList<>();
         for (int i = 0; i < str1.length() - 1; i++) {
@@ -53,7 +53,7 @@ public class P_NewsClustering {
             interNum += Math.min(hm1.get(item), hm2.get(item));
         }
 
-        // re-setting hs1
+        // reset hs1
         hs1 = new HashSet<>(a);
         // 합집합
         hs1.addAll(hs2);
